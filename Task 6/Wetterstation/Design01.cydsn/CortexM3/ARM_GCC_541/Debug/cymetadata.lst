@@ -1,0 +1,1600 @@
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 1
+
+
+   1              		.syntax unified
+   2              		.cpu cortex-m3
+   3              		.fpu softvfp
+   4              		.eabi_attribute 20, 1
+   5              		.eabi_attribute 21, 1
+   6              		.eabi_attribute 23, 3
+   7              		.eabi_attribute 24, 1
+   8              		.eabi_attribute 25, 1
+   9              		.eabi_attribute 26, 1
+  10              		.eabi_attribute 30, 1
+  11              		.eabi_attribute 34, 1
+  12              		.eabi_attribute 18, 4
+  13              		.thumb
+  14              		.syntax unified
+  15              		.file	"cymetadata.c"
+  16              		.text
+  17              	.Ltext0:
+  18              		.cfi_sections	.debug_frame
+  19              		.global	cy_metadata
+  20              		.global	cy_meta_flashprotect
+  21              		.global	cy_meta_wonvl
+  22              		.global	cy_meta_custnvl
+  23              		.global	cy_meta_configecc
+  24              		.section	.cyconfigecc,"a",%progbits
+  25              		.align	2
+  26              		.type	cy_meta_configecc, %object
+  27              		.size	cy_meta_configecc, 1060
+  28              	cy_meta_configecc:
+  29 0000 02       		.byte	2
+  30 0001 52       		.byte	82
+  31 0002 00       		.byte	0
+  32 0003 40       		.byte	64
+  33 0004 01       		.byte	1
+  34 0005 5B       		.byte	91
+  35 0006 00       		.byte	0
+  36 0007 40       		.byte	64
+  37 0008 03       		.byte	3
+  38 0009 65       		.byte	101
+  39 000a 00       		.byte	0
+  40 000b 40       		.byte	64
+  41 000c 02       		.byte	2
+  42 000d 05       		.byte	5
+  43 000e 01       		.byte	1
+  44 000f 40       		.byte	64
+  45 0010 04       		.byte	4
+  46 0011 07       		.byte	7
+  47 0012 01       		.byte	1
+  48 0013 40       		.byte	64
+  49 0014 02       		.byte	2
+  50 0015 09       		.byte	9
+  51 0016 01       		.byte	1
+  52 0017 40       		.byte	64
+  53 0018 02       		.byte	2
+  54 0019 0B       		.byte	11
+  55 001a 01       		.byte	1
+  56 001b 40       		.byte	64
+  57 001c 04       		.byte	4
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 2
+
+
+  58 001d 0C       		.byte	12
+  59 001e 01       		.byte	1
+  60 001f 40       		.byte	64
+  61 0020 01       		.byte	1
+  62 0021 0D       		.byte	13
+  63 0022 01       		.byte	1
+  64 0023 40       		.byte	64
+  65 0024 4A       		.byte	74
+  66 0025 14       		.byte	20
+  67 0026 01       		.byte	1
+  68 0027 40       		.byte	64
+  69 0028 28       		.byte	40
+  70 0029 15       		.byte	21
+  71 002a 01       		.byte	1
+  72 002b 40       		.byte	64
+  73 002c 4F       		.byte	79
+  74 002d 16       		.byte	22
+  75 002e 01       		.byte	1
+  76 002f 40       		.byte	64
+  77 0030 2E       		.byte	46
+  78 0031 17       		.byte	23
+  79 0032 01       		.byte	1
+  80 0033 40       		.byte	64
+  81 0034 60       		.byte	96
+  82 0035 18       		.byte	24
+  83 0036 01       		.byte	1
+  84 0037 40       		.byte	64
+  85 0038 32       		.byte	50
+  86 0039 19       		.byte	25
+  87 003a 01       		.byte	1
+  88 003b 40       		.byte	64
+  89 003c 03       		.byte	3
+  90 003d 1B       		.byte	27
+  91 003e 01       		.byte	1
+  92 003f 40       		.byte	64
+  93 0040 03       		.byte	3
+  94 0041 40       		.byte	64
+  95 0042 01       		.byte	1
+  96 0043 40       		.byte	64
+  97 0044 02       		.byte	2
+  98 0045 41       		.byte	65
+  99 0046 01       		.byte	1
+ 100 0047 40       		.byte	64
+ 101 0048 02       		.byte	2
+ 102 0049 42       		.byte	66
+ 103 004a 01       		.byte	1
+ 104 004b 40       		.byte	64
+ 105 004c 04       		.byte	4
+ 106 004d 43       		.byte	67
+ 107 004e 01       		.byte	1
+ 108 004f 40       		.byte	64
+ 109 0050 02       		.byte	2
+ 110 0051 45       		.byte	69
+ 111 0052 01       		.byte	1
+ 112 0053 40       		.byte	64
+ 113 0054 04       		.byte	4
+ 114 0055 46       		.byte	70
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 3
+
+
+ 115 0056 01       		.byte	1
+ 116 0057 40       		.byte	64
+ 117 0058 03       		.byte	3
+ 118 0059 47       		.byte	71
+ 119 005a 01       		.byte	1
+ 120 005b 40       		.byte	64
+ 121 005c 02       		.byte	2
+ 122 005d 48       		.byte	72
+ 123 005e 01       		.byte	1
+ 124 005f 40       		.byte	64
+ 125 0060 0A       		.byte	10
+ 126 0061 49       		.byte	73
+ 127 0062 01       		.byte	1
+ 128 0063 40       		.byte	64
+ 129 0064 08       		.byte	8
+ 130 0065 4C       		.byte	76
+ 131 0066 01       		.byte	1
+ 132 0067 40       		.byte	64
+ 133 0068 01       		.byte	1
+ 134 0069 4D       		.byte	77
+ 135 006a 01       		.byte	1
+ 136 006b 40       		.byte	64
+ 137 006c 03       		.byte	3
+ 138 006d 50       		.byte	80
+ 139 006e 01       		.byte	1
+ 140 006f 40       		.byte	64
+ 141 0070 01       		.byte	1
+ 142 0071 51       		.byte	81
+ 143 0072 01       		.byte	1
+ 144 0073 40       		.byte	64
+ 145 0074 08       		.byte	8
+ 146 0075 04       		.byte	4
+ 147 0076 18       		.byte	24
+ 148 0077 10       		.byte	16
+ 149 0078 27       		.byte	39
+ 150 0079 21       		.byte	33
+ 151 007a 85       		.byte	-123
+ 152 007b 0F       		.byte	15
+ 153 007c 87       		.byte	-121
+ 154 007d 67       		.byte	103
+ 155 007e 88       		.byte	-120
+ 156 007f 0F       		.byte	15
+ 157 0080 9A       		.byte	-102
+ 158 0081 08       		.byte	8
+ 159 0082 B6       		.byte	-74
+ 160 0083 08       		.byte	8
+ 161 0084 98       		.byte	-104
+ 162 0085 04       		.byte	4
+ 163 0086 9A       		.byte	-102
+ 164 0087 08       		.byte	8
+ 165 0088 B0       		.byte	-80
+ 166 0089 04       		.byte	4
+ 167 008a EE       		.byte	-18
+ 168 008b 04       		.byte	4
+ 169 008c B3       		.byte	-77
+ 170 008d 40       		.byte	64
+ 171 008e EE       		.byte	-18
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 4
+
+
+ 172 008f 84       		.byte	-124
+ 173 0090 93       		.byte	-109
+ 174 0091 80       		.byte	-128
+ 175 0092 EA       		.byte	-22
+ 176 0093 10       		.byte	16
+ 177 0094 38       		.byte	56
+ 178 0095 80       		.byte	-128
+ 179 0096 3E       		.byte	62
+ 180 0097 40       		.byte	64
+ 181 0098 58       		.byte	88
+ 182 0099 04       		.byte	4
+ 183 009a 5F       		.byte	95
+ 184 009b 01       		.byte	1
+ 185 009c 1F       		.byte	31
+ 186 009d 40       		.byte	64
+ 187 009e 2E       		.byte	46
+ 188 009f 01       		.byte	1
+ 189 00a0 36       		.byte	54
+ 190 00a1 01       		.byte	1
+ 191 00a2 40       		.byte	64
+ 192 00a3 10       		.byte	16
+ 193 00a4 41       		.byte	65
+ 194 00a5 02       		.byte	2
+ 195 00a6 49       		.byte	73
+ 196 00a7 FF       		.byte	-1
+ 197 00a8 4A       		.byte	74
+ 198 00a9 FF       		.byte	-1
+ 199 00aa 4B       		.byte	75
+ 200 00ab FF       		.byte	-1
+ 201 00ac 4D       		.byte	77
+ 202 00ad A0       		.byte	-96
+ 203 00ae 4F       		.byte	79
+ 204 00af 04       		.byte	4
+ 205 00b0 50       		.byte	80
+ 206 00b1 18       		.byte	24
+ 207 00b2 52       		.byte	82
+ 208 00b3 80       		.byte	-128
+ 209 00b4 58       		.byte	88
+ 210 00b5 04       		.byte	4
+ 211 00b6 5A       		.byte	90
+ 212 00b7 04       		.byte	4
+ 213 00b8 5B       		.byte	91
+ 214 00b9 04       		.byte	4
+ 215 00ba 5C       		.byte	92
+ 216 00bb 01       		.byte	1
+ 217 00bc 5D       		.byte	93
+ 218 00bd 11       		.byte	17
+ 219 00be 5F       		.byte	95
+ 220 00bf 01       		.byte	1
+ 221 00c0 60       		.byte	96
+ 222 00c1 40       		.byte	64
+ 223 00c2 62       		.byte	98
+ 224 00c3 C0       		.byte	-64
+ 225 00c4 64       		.byte	100
+ 226 00c5 40       		.byte	64
+ 227 00c6 65       		.byte	101
+ 228 00c7 40       		.byte	64
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 5
+
+
+ 229 00c8 66       		.byte	102
+ 230 00c9 C0       		.byte	-64
+ 231 00ca 68       		.byte	104
+ 232 00cb C0       		.byte	-64
+ 233 00cc 6A       		.byte	106
+ 234 00cd C0       		.byte	-64
+ 235 00ce 6C       		.byte	108
+ 236 00cf C0       		.byte	-64
+ 237 00d0 6E       		.byte	110
+ 238 00d1 C0       		.byte	-64
+ 239 00d2 80       		.byte	-128
+ 240 00d3 01       		.byte	1
+ 241 00d4 82       		.byte	-126
+ 242 00d5 02       		.byte	2
+ 243 00d6 83       		.byte	-125
+ 244 00d7 01       		.byte	1
+ 245 00d8 84       		.byte	-124
+ 246 00d9 06       		.byte	6
+ 247 00da 8B       		.byte	-117
+ 248 00db 01       		.byte	1
+ 249 00dc 9C       		.byte	-100
+ 250 00dd 08       		.byte	8
+ 251 00de A1       		.byte	-95
+ 252 00df 02       		.byte	2
+ 253 00e0 A8       		.byte	-88
+ 254 00e1 01       		.byte	1
+ 255 00e2 AA       		.byte	-86
+ 256 00e3 04       		.byte	4
+ 257 00e4 AD       		.byte	-83
+ 258 00e5 02       		.byte	2
+ 259 00e6 B0       		.byte	-80
+ 260 00e7 06       		.byte	6
+ 261 00e8 B2       		.byte	-78
+ 262 00e9 01       		.byte	1
+ 263 00ea B3       		.byte	-77
+ 264 00eb 02       		.byte	2
+ 265 00ec B5       		.byte	-75
+ 266 00ed 01       		.byte	1
+ 267 00ee B6       		.byte	-74
+ 268 00ef 08       		.byte	8
+ 269 00f0 B8       		.byte	-72
+ 270 00f1 08       		.byte	8
+ 271 00f2 BF       		.byte	-65
+ 272 00f3 10       		.byte	16
+ 273 00f4 C0       		.byte	-64
+ 274 00f5 50       		.byte	80
+ 275 00f6 C1       		.byte	-63
+ 276 00f7 02       		.byte	2
+ 277 00f8 C5       		.byte	-59
+ 278 00f9 D0       		.byte	-48
+ 279 00fa C6       		.byte	-58
+ 280 00fb 20       		.byte	32
+ 281 00fc C7       		.byte	-57
+ 282 00fd 51       		.byte	81
+ 283 00fe C8       		.byte	-56
+ 284 00ff 3E       		.byte	62
+ 285 0100 C9       		.byte	-55
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 6
+
+
+ 286 0101 FF       		.byte	-1
+ 287 0102 CA       		.byte	-54
+ 288 0103 FF       		.byte	-1
+ 289 0104 CB       		.byte	-53
+ 290 0105 FF       		.byte	-1
+ 291 0106 CD       		.byte	-51
+ 292 0107 AF       		.byte	-81
+ 293 0108 CE       		.byte	-50
+ 294 0109 0F       		.byte	15
+ 295 010a CF       		.byte	-49
+ 296 010b 04       		.byte	4
+ 297 010c D0       		.byte	-48
+ 298 010d 18       		.byte	24
+ 299 010e D4       		.byte	-44
+ 300 010f 07       		.byte	7
+ 301 0110 D6       		.byte	-42
+ 302 0111 04       		.byte	4
+ 303 0112 D8       		.byte	-40
+ 304 0113 04       		.byte	4
+ 305 0114 D9       		.byte	-39
+ 306 0115 04       		.byte	4
+ 307 0116 DA       		.byte	-38
+ 308 0117 04       		.byte	4
+ 309 0118 DB       		.byte	-37
+ 310 0119 04       		.byte	4
+ 311 011a DC       		.byte	-36
+ 312 011b 11       		.byte	17
+ 313 011c DD       		.byte	-35
+ 314 011d 11       		.byte	17
+ 315 011e DF       		.byte	-33
+ 316 011f 01       		.byte	1
+ 317 0120 E0       		.byte	-32
+ 318 0121 40       		.byte	64
+ 319 0122 E2       		.byte	-30
+ 320 0123 C0       		.byte	-64
+ 321 0124 E4       		.byte	-28
+ 322 0125 40       		.byte	64
+ 323 0126 E5       		.byte	-27
+ 324 0127 40       		.byte	64
+ 325 0128 E6       		.byte	-26
+ 326 0129 C0       		.byte	-64
+ 327 012a E8       		.byte	-24
+ 328 012b C0       		.byte	-64
+ 329 012c EA       		.byte	-22
+ 330 012d C0       		.byte	-64
+ 331 012e EC       		.byte	-20
+ 332 012f C0       		.byte	-64
+ 333 0130 EE       		.byte	-18
+ 334 0131 C0       		.byte	-64
+ 335 0132 05       		.byte	5
+ 336 0133 04       		.byte	4
+ 337 0134 06       		.byte	6
+ 338 0135 40       		.byte	64
+ 339 0136 0F       		.byte	15
+ 340 0137 02       		.byte	2
+ 341 0138 10       		.byte	16
+ 342 0139 02       		.byte	2
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 7
+
+
+ 343 013a 16       		.byte	22
+ 344 013b 08       		.byte	8
+ 345 013c 18       		.byte	24
+ 346 013d 01       		.byte	1
+ 347 013e 19       		.byte	25
+ 348 013f 80       		.byte	-128
+ 349 0140 1C       		.byte	28
+ 350 0141 40       		.byte	64
+ 351 0142 1D       		.byte	29
+ 352 0143 04       		.byte	4
+ 353 0144 1F       		.byte	31
+ 354 0145 80       		.byte	-128
+ 355 0146 27       		.byte	39
+ 356 0147 28       		.byte	40
+ 357 0148 2F       		.byte	47
+ 358 0149 82       		.byte	-126
+ 359 014a 3C       		.byte	60
+ 360 014b 01       		.byte	1
+ 361 014c 3E       		.byte	62
+ 362 014d 20       		.byte	32
+ 363 014e 40       		.byte	64
+ 364 014f 01       		.byte	1
+ 365 0150 41       		.byte	65
+ 366 0151 20       		.byte	32
+ 367 0152 45       		.byte	69
+ 368 0153 20       		.byte	32
+ 369 0154 4D       		.byte	77
+ 370 0155 80       		.byte	-128
+ 371 0156 4F       		.byte	79
+ 372 0157 01       		.byte	1
+ 373 0158 55       		.byte	85
+ 374 0159 20       		.byte	32
+ 375 015a 56       		.byte	86
+ 376 015b 68       		.byte	104
+ 377 015c 57       		.byte	87
+ 378 015d 03       		.byte	3
+ 379 015e 5C       		.byte	92
+ 380 015f 40       		.byte	64
+ 381 0160 5F       		.byte	95
+ 382 0161 29       		.byte	41
+ 383 0162 67       		.byte	103
+ 384 0163 80       		.byte	-128
+ 385 0164 70       		.byte	112
+ 386 0165 02       		.byte	2
+ 387 0166 87       		.byte	-121
+ 388 0167 40       		.byte	64
+ 389 0168 9D       		.byte	-99
+ 390 0169 80       		.byte	-128
+ 391 016a A7       		.byte	-89
+ 392 016b 01       		.byte	1
+ 393 016c AB       		.byte	-85
+ 394 016d 20       		.byte	32
+ 395 016e C0       		.byte	-64
+ 396 016f 30       		.byte	48
+ 397 0170 C2       		.byte	-62
+ 398 0171 80       		.byte	-128
+ 399 0172 C4       		.byte	-60
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 8
+
+
+ 400 0173 41       		.byte	65
+ 401 0174 CA       		.byte	-54
+ 402 0175 90       		.byte	-112
+ 403 0176 CE       		.byte	-50
+ 404 0177 A0       		.byte	-96
+ 405 0178 D0       		.byte	-48
+ 406 0179 2C       		.byte	44
+ 407 017a D2       		.byte	-46
+ 408 017b 10       		.byte	16
+ 409 017c D6       		.byte	-42
+ 410 017d F0       		.byte	-16
+ 411 017e D8       		.byte	-40
+ 412 017f 80       		.byte	-128
+ 413 0180 EE       		.byte	-18
+ 414 0181 08       		.byte	8
+ 415 0182 03       		.byte	3
+ 416 0183 04       		.byte	4
+ 417 0184 05       		.byte	5
+ 418 0185 06       		.byte	6
+ 419 0186 0E       		.byte	14
+ 420 0187 02       		.byte	2
+ 421 0188 12       		.byte	18
+ 422 0189 01       		.byte	1
+ 423 018a 1B       		.byte	27
+ 424 018b 03       		.byte	3
+ 425 018c 1C       		.byte	28
+ 426 018d 02       		.byte	2
+ 427 018e 24       		.byte	36
+ 428 018f 01       		.byte	1
+ 429 0190 2A       		.byte	42
+ 430 0191 01       		.byte	1
+ 431 0192 30       		.byte	48
+ 432 0193 02       		.byte	2
+ 433 0194 33       		.byte	51
+ 434 0195 06       		.byte	6
+ 435 0196 35       		.byte	53
+ 436 0197 01       		.byte	1
+ 437 0198 36       		.byte	54
+ 438 0199 01       		.byte	1
+ 439 019a 3E       		.byte	62
+ 440 019b 40       		.byte	64
+ 441 019c 40       		.byte	64
+ 442 019d 14       		.byte	20
+ 443 019e 41       		.byte	65
+ 444 019f 02       		.byte	2
+ 445 01a0 49       		.byte	73
+ 446 01a1 FF       		.byte	-1
+ 447 01a2 4A       		.byte	74
+ 448 01a3 FF       		.byte	-1
+ 449 01a4 4B       		.byte	75
+ 450 01a5 FF       		.byte	-1
+ 451 01a6 4D       		.byte	77
+ 452 01a7 A0       		.byte	-96
+ 453 01a8 4F       		.byte	79
+ 454 01a9 01       		.byte	1
+ 455 01aa 50       		.byte	80
+ 456 01ab 18       		.byte	24
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 9
+
+
+ 457 01ac 58       		.byte	88
+ 458 01ad 04       		.byte	4
+ 459 01ae 59       		.byte	89
+ 460 01af 04       		.byte	4
+ 461 01b0 5A       		.byte	90
+ 462 01b1 04       		.byte	4
+ 463 01b2 5C       		.byte	92
+ 464 01b3 01       		.byte	1
+ 465 01b4 5F       		.byte	95
+ 466 01b5 01       		.byte	1
+ 467 01b6 60       		.byte	96
+ 468 01b7 40       		.byte	64
+ 469 01b8 62       		.byte	98
+ 470 01b9 80       		.byte	-128
+ 471 01ba 64       		.byte	100
+ 472 01bb 40       		.byte	64
+ 473 01bc 65       		.byte	101
+ 474 01bd 40       		.byte	64
+ 475 01be 66       		.byte	102
+ 476 01bf 80       		.byte	-128
+ 477 01c0 68       		.byte	104
+ 478 01c1 40       		.byte	64
+ 479 01c2 6A       		.byte	106
+ 480 01c3 50       		.byte	80
+ 481 01c4 6B       		.byte	107
+ 482 01c5 A8       		.byte	-88
+ 483 01c6 6C       		.byte	108
+ 484 01c7 40       		.byte	64
+ 485 01c8 6D       		.byte	109
+ 486 01c9 20       		.byte	32
+ 487 01ca 6E       		.byte	110
+ 488 01cb 50       		.byte	80
+ 489 01cc 6F       		.byte	111
+ 490 01cd A8       		.byte	-88
+ 491 01ce 82       		.byte	-126
+ 492 01cf 02       		.byte	2
+ 493 01d0 84       		.byte	-124
+ 494 01d1 02       		.byte	2
+ 495 01d2 8C       		.byte	-116
+ 496 01d3 01       		.byte	1
+ 497 01d4 8F       		.byte	-113
+ 498 01d5 01       		.byte	1
+ 499 01d6 A6       		.byte	-90
+ 500 01d7 05       		.byte	5
+ 501 01d8 B0       		.byte	-80
+ 502 01d9 04       		.byte	4
+ 503 01da B4       		.byte	-76
+ 504 01db 02       		.byte	2
+ 505 01dc B5       		.byte	-75
+ 506 01dd 01       		.byte	1
+ 507 01de B6       		.byte	-74
+ 508 01df 01       		.byte	1
+ 509 01e0 BE       		.byte	-66
+ 510 01e1 50       		.byte	80
+ 511 01e2 C0       		.byte	-64
+ 512 01e3 15       		.byte	21
+ 513 01e4 C1       		.byte	-63
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 10
+
+
+ 514 01e5 02       		.byte	2
+ 515 01e6 C5       		.byte	-59
+ 516 01e7 25       		.byte	37
+ 517 01e8 C6       		.byte	-58
+ 518 01e9 C0       		.byte	-64
+ 519 01ea C7       		.byte	-57
+ 520 01eb 0E       		.byte	14
+ 521 01ec C8       		.byte	-56
+ 522 01ed 1F       		.byte	31
+ 523 01ee C9       		.byte	-55
+ 524 01ef FF       		.byte	-1
+ 525 01f0 CA       		.byte	-54
+ 526 01f1 FF       		.byte	-1
+ 527 01f2 CB       		.byte	-53
+ 528 01f3 FF       		.byte	-1
+ 529 01f4 CD       		.byte	-51
+ 530 01f5 AF       		.byte	-81
+ 531 01f6 CE       		.byte	-50
+ 532 01f7 07       		.byte	7
+ 533 01f8 CF       		.byte	-49
+ 534 01f9 01       		.byte	1
+ 535 01fa D0       		.byte	-48
+ 536 01fb 18       		.byte	24
+ 537 01fc D4       		.byte	-44
+ 538 01fd 07       		.byte	7
+ 539 01fe D8       		.byte	-40
+ 540 01ff 04       		.byte	4
+ 541 0200 D9       		.byte	-39
+ 542 0201 04       		.byte	4
+ 543 0202 DA       		.byte	-38
+ 544 0203 04       		.byte	4
+ 545 0204 DB       		.byte	-37
+ 546 0205 04       		.byte	4
+ 547 0206 DF       		.byte	-33
+ 548 0207 01       		.byte	1
+ 549 0208 E0       		.byte	-32
+ 550 0209 40       		.byte	64
+ 551 020a E2       		.byte	-30
+ 552 020b 80       		.byte	-128
+ 553 020c E4       		.byte	-28
+ 554 020d 40       		.byte	64
+ 555 020e E5       		.byte	-27
+ 556 020f 40       		.byte	64
+ 557 0210 E6       		.byte	-26
+ 558 0211 80       		.byte	-128
+ 559 0212 E8       		.byte	-24
+ 560 0213 40       		.byte	64
+ 561 0214 EA       		.byte	-22
+ 562 0215 50       		.byte	80
+ 563 0216 EB       		.byte	-21
+ 564 0217 A8       		.byte	-88
+ 565 0218 EC       		.byte	-20
+ 566 0219 40       		.byte	64
+ 567 021a ED       		.byte	-19
+ 568 021b 20       		.byte	32
+ 569 021c EE       		.byte	-18
+ 570 021d 50       		.byte	80
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 11
+
+
+ 571 021e EF       		.byte	-17
+ 572 021f A8       		.byte	-88
+ 573 0220 00       		.byte	0
+ 574 0221 44       		.byte	68
+ 575 0222 02       		.byte	2
+ 576 0223 40       		.byte	64
+ 577 0224 05       		.byte	5
+ 578 0225 80       		.byte	-128
+ 579 0226 0E       		.byte	14
+ 580 0227 80       		.byte	-128
+ 581 0228 0F       		.byte	15
+ 582 0229 02       		.byte	2
+ 583 022a 10       		.byte	16
+ 584 022b 20       		.byte	32
+ 585 022c 17       		.byte	23
+ 586 022d 28       		.byte	40
+ 587 022e 18       		.byte	24
+ 588 022f 40       		.byte	64
+ 589 0230 19       		.byte	25
+ 590 0231 40       		.byte	64
+ 591 0232 1A       		.byte	26
+ 592 0233 04       		.byte	4
+ 593 0234 1D       		.byte	29
+ 594 0235 80       		.byte	-128
+ 595 0236 1E       		.byte	30
+ 596 0237 80       		.byte	-128
+ 597 0238 20       		.byte	32
+ 598 0239 04       		.byte	4
+ 599 023a 27       		.byte	39
+ 600 023b 28       		.byte	40
+ 601 023c 37       		.byte	55
+ 602 023d 20       		.byte	32
+ 603 023e 3B       		.byte	59
+ 604 023f 80       		.byte	-128
+ 605 0240 3E       		.byte	62
+ 606 0241 0A       		.byte	10
+ 607 0242 40       		.byte	64
+ 608 0243 08       		.byte	8
+ 609 0244 41       		.byte	65
+ 610 0245 80       		.byte	-128
+ 611 0246 44       		.byte	68
+ 612 0247 0C       		.byte	12
+ 613 0248 45       		.byte	69
+ 614 0249 80       		.byte	-128
+ 615 024a 46       		.byte	70
+ 616 024b 40       		.byte	64
+ 617 024c 48       		.byte	72
+ 618 024d 20       		.byte	32
+ 619 024e 4A       		.byte	74
+ 620 024f 80       		.byte	-128
+ 621 0250 4B       		.byte	75
+ 622 0251 80       		.byte	-128
+ 623 0252 51       		.byte	81
+ 624 0253 08       		.byte	8
+ 625 0254 52       		.byte	82
+ 626 0255 50       		.byte	80
+ 627 0256 53       		.byte	83
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 12
+
+
+ 628 0257 40       		.byte	64
+ 629 0258 59       		.byte	89
+ 630 0259 50       		.byte	80
+ 631 025a 5A       		.byte	90
+ 632 025b 04       		.byte	4
+ 633 025c 61       		.byte	97
+ 634 025d 08       		.byte	8
+ 635 025e 62       		.byte	98
+ 636 025f 10       		.byte	16
+ 637 0260 81       		.byte	-127
+ 638 0261 10       		.byte	16
+ 639 0262 82       		.byte	-126
+ 640 0263 80       		.byte	-128
+ 641 0264 98       		.byte	-104
+ 642 0265 04       		.byte	4
+ 643 0266 9A       		.byte	-102
+ 644 0267 0A       		.byte	10
+ 645 0268 B2       		.byte	-78
+ 646 0269 02       		.byte	2
+ 647 026a C0       		.byte	-64
+ 648 026b 8D       		.byte	-115
+ 649 026c C2       		.byte	-62
+ 650 026d 90       		.byte	-112
+ 651 026e C4       		.byte	-60
+ 652 026f 64       		.byte	100
+ 653 0270 CC       		.byte	-52
+ 654 0271 20       		.byte	32
+ 655 0272 CE       		.byte	-50
+ 656 0273 C8       		.byte	-56
+ 657 0274 D0       		.byte	-48
+ 658 0275 BC       		.byte	-68
+ 659 0276 D2       		.byte	-46
+ 660 0277 08       		.byte	8
+ 661 0278 D6       		.byte	-42
+ 662 0279 0E       		.byte	14
+ 663 027a D8       		.byte	-40
+ 664 027b 06       		.byte	6
+ 665 027c 00       		.byte	0
+ 666 027d 13       		.byte	19
+ 667 027e 02       		.byte	2
+ 668 027f 04       		.byte	4
+ 669 0280 06       		.byte	6
+ 670 0281 15       		.byte	21
+ 671 0282 0C       		.byte	12
+ 672 0283 13       		.byte	19
+ 673 0284 0E       		.byte	14
+ 674 0285 0C       		.byte	12
+ 675 0286 0F       		.byte	15
+ 676 0287 01       		.byte	1
+ 677 0288 10       		.byte	16
+ 678 0289 0A       		.byte	10
+ 679 028a 11       		.byte	17
+ 680 028b 01       		.byte	1
+ 681 028c 12       		.byte	18
+ 682 028d 14       		.byte	20
+ 683 028e 15       		.byte	21
+ 684 028f 02       		.byte	2
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 13
+
+
+ 685 0290 1D       		.byte	29
+ 686 0291 01       		.byte	1
+ 687 0292 1E       		.byte	30
+ 688 0293 08       		.byte	8
+ 689 0294 24       		.byte	36
+ 690 0295 03       		.byte	3
+ 691 0296 26       		.byte	38
+ 692 0297 14       		.byte	20
+ 693 0298 28       		.byte	40
+ 694 0299 20       		.byte	32
+ 695 029a 30       		.byte	48
+ 696 029b 10       		.byte	16
+ 697 029c 31       		.byte	49
+ 698 029d 03       		.byte	3
+ 699 029e 34       		.byte	52
+ 700 029f 20       		.byte	32
+ 701 02a0 36       		.byte	54
+ 702 02a1 0F       		.byte	15
+ 703 02a2 39       		.byte	57
+ 704 02a3 02       		.byte	2
+ 705 02a4 3A       		.byte	58
+ 706 02a5 80       		.byte	-128
+ 707 02a6 3E       		.byte	62
+ 708 02a7 11       		.byte	17
+ 709 02a8 40       		.byte	64
+ 710 02a9 46       		.byte	70
+ 711 02aa 41       		.byte	65
+ 712 02ab 01       		.byte	1
+ 713 02ac 46       		.byte	70
+ 714 02ad C0       		.byte	-64
+ 715 02ae 47       		.byte	71
+ 716 02af BE       		.byte	-66
+ 717 02b0 48       		.byte	72
+ 718 02b1 38       		.byte	56
+ 719 02b2 49       		.byte	73
+ 720 02b3 FF       		.byte	-1
+ 721 02b4 4A       		.byte	74
+ 722 02b5 FF       		.byte	-1
+ 723 02b6 4B       		.byte	75
+ 724 02b7 FF       		.byte	-1
+ 725 02b8 4E       		.byte	78
+ 726 02b9 F0       		.byte	-16
+ 727 02ba 4F       		.byte	79
+ 728 02bb 44       		.byte	68
+ 729 02bc 50       		.byte	80
+ 730 02bd 0C       		.byte	12
+ 731 02be 54       		.byte	84
+ 732 02bf 01       		.byte	1
+ 733 02c0 58       		.byte	88
+ 734 02c1 04       		.byte	4
+ 735 02c2 59       		.byte	89
+ 736 02c3 04       		.byte	4
+ 737 02c4 5A       		.byte	90
+ 738 02c5 04       		.byte	4
+ 739 02c6 5B       		.byte	91
+ 740 02c7 04       		.byte	4
+ 741 02c8 5C       		.byte	92
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 14
+
+
+ 742 02c9 22       		.byte	34
+ 743 02ca 5D       		.byte	93
+ 744 02cb 22       		.byte	34
+ 745 02cc 5F       		.byte	95
+ 746 02cd 01       		.byte	1
+ 747 02ce 66       		.byte	102
+ 748 02cf C0       		.byte	-64
+ 749 02d0 6A       		.byte	106
+ 750 02d1 40       		.byte	64
+ 751 02d2 6B       		.byte	107
+ 752 02d3 02       		.byte	2
+ 753 02d4 80       		.byte	-128
+ 754 02d5 10       		.byte	16
+ 755 02d6 82       		.byte	-126
+ 756 02d7 AC       		.byte	-84
+ 757 02d8 87       		.byte	-121
+ 758 02d9 13       		.byte	19
+ 759 02da 8C       		.byte	-116
+ 760 02db 0C       		.byte	12
+ 761 02dc 8D       		.byte	-115
+ 762 02dd 2C       		.byte	44
+ 763 02de 8E       		.byte	-114
+ 764 02df 71       		.byte	113
+ 765 02e0 8F       		.byte	-113
+ 766 02e1 03       		.byte	3
+ 767 02e2 90       		.byte	-112
+ 768 02e3 DC       		.byte	-36
+ 769 02e4 92       		.byte	-110
+ 770 02e5 22       		.byte	34
+ 771 02e6 9A       		.byte	-102
+ 772 02e7 03       		.byte	3
+ 773 02e8 9B       		.byte	-101
+ 774 02e9 08       		.byte	8
+ 775 02ea 9C       		.byte	-100
+ 776 02eb 09       		.byte	9
+ 777 02ec 9E       		.byte	-98
+ 778 02ed D0       		.byte	-48
+ 779 02ee 9F       		.byte	-97
+ 780 02ef 0C       		.byte	12
+ 781 02f0 A0       		.byte	-96
+ 782 02f1 14       		.byte	20
+ 783 02f2 A1       		.byte	-95
+ 784 02f3 31       		.byte	49
+ 785 02f4 A3       		.byte	-93
+ 786 02f5 0E       		.byte	14
+ 787 02f6 A4       		.byte	-92
+ 788 02f7 10       		.byte	16
+ 789 02f8 A6       		.byte	-90
+ 790 02f9 40       		.byte	64
+ 791 02fa A9       		.byte	-87
+ 792 02fb 40       		.byte	64
+ 793 02fc AA       		.byte	-86
+ 794 02fd 20       		.byte	32
+ 795 02fe AD       		.byte	-83
+ 796 02ff 31       		.byte	49
+ 797 0300 AF       		.byte	-81
+ 798 0301 06       		.byte	6
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 15
+
+
+ 799 0302 B0       		.byte	-80
+ 800 0303 E0       		.byte	-32
+ 801 0304 B1       		.byte	-79
+ 802 0305 0F       		.byte	15
+ 803 0306 B3       		.byte	-77
+ 804 0307 30       		.byte	48
+ 805 0308 B4       		.byte	-76
+ 806 0309 1F       		.byte	31
+ 807 030a B5       		.byte	-75
+ 808 030b 40       		.byte	64
+ 809 030c B9       		.byte	-71
+ 810 030d 08       		.byte	8
+ 811 030e BA       		.byte	-70
+ 812 030f 02       		.byte	2
+ 813 0310 BB       		.byte	-69
+ 814 0311 02       		.byte	2
+ 815 0312 BF       		.byte	-65
+ 816 0313 14       		.byte	20
+ 817 0314 C0       		.byte	-64
+ 818 0315 03       		.byte	3
+ 819 0316 C6       		.byte	-58
+ 820 0317 40       		.byte	64
+ 821 0318 C9       		.byte	-55
+ 822 0319 FF       		.byte	-1
+ 823 031a CA       		.byte	-54
+ 824 031b 07       		.byte	7
+ 825 031c CB       		.byte	-53
+ 826 031d FF       		.byte	-1
+ 827 031e CC       		.byte	-52
+ 828 031f 40       		.byte	64
+ 829 0320 CD       		.byte	-51
+ 830 0321 20       		.byte	32
+ 831 0322 CE       		.byte	-50
+ 832 0323 F0       		.byte	-16
+ 833 0324 CF       		.byte	-49
+ 834 0325 05       		.byte	5
+ 835 0326 D0       		.byte	-48
+ 836 0327 08       		.byte	8
+ 837 0328 D8       		.byte	-40
+ 838 0329 04       		.byte	4
+ 839 032a D9       		.byte	-39
+ 840 032b 04       		.byte	4
+ 841 032c DA       		.byte	-38
+ 842 032d 04       		.byte	4
+ 843 032e DC       		.byte	-36
+ 844 032f 22       		.byte	34
+ 845 0330 DD       		.byte	-35
+ 846 0331 02       		.byte	2
+ 847 0332 DF       		.byte	-33
+ 848 0333 01       		.byte	1
+ 849 0334 E0       		.byte	-32
+ 850 0335 40       		.byte	64
+ 851 0336 E1       		.byte	-31
+ 852 0337 A8       		.byte	-88
+ 853 0338 E2       		.byte	-30
+ 854 0339 40       		.byte	64
+ 855 033a E3       		.byte	-29
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 16
+
+
+ 856 033b 20       		.byte	32
+ 857 033c 02       		.byte	2
+ 858 033d 41       		.byte	65
+ 859 033e 04       		.byte	4
+ 860 033f 08       		.byte	8
+ 861 0340 05       		.byte	5
+ 862 0341 41       		.byte	65
+ 863 0342 08       		.byte	8
+ 864 0343 40       		.byte	64
+ 865 0344 0A       		.byte	10
+ 866 0345 04       		.byte	4
+ 867 0346 0B       		.byte	11
+ 868 0347 40       		.byte	64
+ 869 0348 0C       		.byte	12
+ 870 0349 40       		.byte	64
+ 871 034a 0F       		.byte	15
+ 872 034b 40       		.byte	64
+ 873 034c 10       		.byte	16
+ 874 034d 20       		.byte	32
+ 875 034e 11       		.byte	17
+ 876 034f 02       		.byte	2
+ 877 0350 12       		.byte	18
+ 878 0351 08       		.byte	8
+ 879 0352 14       		.byte	20
+ 880 0353 20       		.byte	32
+ 881 0354 16       		.byte	22
+ 882 0355 28       		.byte	40
+ 883 0356 19       		.byte	25
+ 884 0357 21       		.byte	33
+ 885 0358 1A       		.byte	26
+ 886 0359 04       		.byte	4
+ 887 035a 1D       		.byte	29
+ 888 035b 40       		.byte	64
+ 889 035c 1E       		.byte	30
+ 890 035d 48       		.byte	72
+ 891 035e 20       		.byte	32
+ 892 035f 40       		.byte	64
+ 893 0360 21       		.byte	33
+ 894 0361 24       		.byte	36
+ 895 0362 23       		.byte	35
+ 896 0363 40       		.byte	64
+ 897 0364 27       		.byte	39
+ 898 0365 40       		.byte	64
+ 899 0366 29       		.byte	41
+ 900 0367 61       		.byte	97
+ 901 0368 2A       		.byte	42
+ 902 0369 41       		.byte	65
+ 903 036a 30       		.byte	48
+ 904 036b 60       		.byte	96
+ 905 036c 33       		.byte	51
+ 906 036d 40       		.byte	64
+ 907 036e 35       		.byte	53
+ 908 036f 41       		.byte	65
+ 909 0370 36       		.byte	54
+ 910 0371 08       		.byte	8
+ 911 0372 38       		.byte	56
+ 912 0373 48       		.byte	72
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 17
+
+
+ 913 0374 3C       		.byte	60
+ 914 0375 40       		.byte	64
+ 915 0376 41       		.byte	65
+ 916 0377 04       		.byte	4
+ 917 0378 46       		.byte	70
+ 918 0379 41       		.byte	65
+ 919 037a 4C       		.byte	76
+ 920 037b 04       		.byte	4
+ 921 037c 50       		.byte	80
+ 922 037d 24       		.byte	36
+ 923 037e 52       		.byte	82
+ 924 037f 08       		.byte	8
+ 925 0380 55       		.byte	85
+ 926 0381 01       		.byte	1
+ 927 0382 56       		.byte	86
+ 928 0383 28       		.byte	40
+ 929 0384 5C       		.byte	92
+ 930 0385 20       		.byte	32
+ 931 0386 5E       		.byte	94
+ 932 0387 48       		.byte	72
+ 933 0388 5F       		.byte	95
+ 934 0389 02       		.byte	2
+ 935 038a 89       		.byte	-119
+ 936 038b 20       		.byte	32
+ 937 038c C0       		.byte	-64
+ 938 038d B9       		.byte	-71
+ 939 038e C2       		.byte	-62
+ 940 038f 9B       		.byte	-101
+ 941 0390 C4       		.byte	-60
+ 942 0391 6E       		.byte	110
+ 943 0392 CA       		.byte	-54
+ 944 0393 0D       		.byte	13
+ 945 0394 CC       		.byte	-52
+ 946 0395 DC       		.byte	-36
+ 947 0396 CE       		.byte	-50
+ 948 0397 1A       		.byte	26
+ 949 0398 D0       		.byte	-48
+ 950 0399 92       		.byte	-110
+ 951 039a D2       		.byte	-46
+ 952 039b 20       		.byte	32
+ 953 039c D6       		.byte	-42
+ 954 039d F0       		.byte	-16
+ 955 039e EA       		.byte	-22
+ 956 039f 80       		.byte	-128
+ 957 03a0 B2       		.byte	-78
+ 958 03a1 08       		.byte	8
+ 959 03a2 B3       		.byte	-77
+ 960 03a3 02       		.byte	2
+ 961 03a4 EE       		.byte	-18
+ 962 03a5 08       		.byte	8
+ 963 03a6 33       		.byte	51
+ 964 03a7 22       		.byte	34
+ 965 03a8 36       		.byte	54
+ 966 03a9 80       		.byte	-128
+ 967 03aa CC       		.byte	-52
+ 968 03ab 70       		.byte	112
+ 969 03ac A6       		.byte	-90
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 18
+
+
+ 970 03ad 80       		.byte	-128
+ 971 03ae A7       		.byte	-89
+ 972 03af 22       		.byte	34
+ 973 03b0 A6       		.byte	-90
+ 974 03b1 80       		.byte	-128
+ 975 03b2 A7       		.byte	-89
+ 976 03b3 22       		.byte	34
+ 977 03b4 A6       		.byte	-90
+ 978 03b5 80       		.byte	-128
+ 979 03b6 A7       		.byte	-89
+ 980 03b7 02       		.byte	2
+ 981 03b8 AB       		.byte	-85
+ 982 03b9 20       		.byte	32
+ 983 03ba EE       		.byte	-18
+ 984 03bb 20       		.byte	32
+ 985 03bc 11       		.byte	17
+ 986 03bd 02       		.byte	2
+ 987 03be C4       		.byte	-60
+ 988 03bf 08       		.byte	8
+ 989 03c0 1B       		.byte	27
+ 990 03c1 04       		.byte	4
+ 991 03c2 B5       		.byte	-75
+ 992 03c3 01       		.byte	1
+ 993 03c4 C6       		.byte	-58
+ 994 03c5 08       		.byte	8
+ 995 03c6 EA       		.byte	-22
+ 996 03c7 08       		.byte	8
+ 997 03c8 00       		.byte	0
+ 998 03c9 02       		.byte	2
+ 999 03ca AB       		.byte	-85
+ 1000 03cb 04       		.byte	4
+ 1001 03cc C0       		.byte	-64
+ 1002 03cd 08       		.byte	8
+ 1003 03ce A6       		.byte	-90
+ 1004 03cf 80       		.byte	-128
+ 1005 03d0 A7       		.byte	-89
+ 1006 03d1 02       		.byte	2
+ 1007 03d2 5C       		.byte	92
+ 1008 03d3 01       		.byte	1
+ 1009 03d4 87       		.byte	-121
+ 1010 03d5 02       		.byte	2
+ 1011 03d6 90       		.byte	-112
+ 1012 03d7 01       		.byte	1
+ 1013 03d8 A7       		.byte	-89
+ 1014 03d9 02       		.byte	2
+ 1015 03da A8       		.byte	-88
+ 1016 03db 01       		.byte	1
+ 1017 03dc AE       		.byte	-82
+ 1018 03dd 80       		.byte	-128
+ 1019 03de D6       		.byte	-42
+ 1020 03df 80       		.byte	-128
+ 1021 03e0 E2       		.byte	-30
+ 1022 03e1 10       		.byte	16
+ 1023 03e2 EA       		.byte	-22
+ 1024 03e3 80       		.byte	-128
+ 1025 03e4 EE       		.byte	-18
+ 1026 03e5 10       		.byte	16
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 19
+
+
+ 1027 03e6 1F       		.byte	31
+ 1028 03e7 80       		.byte	-128
+ 1029 03e8 56       		.byte	86
+ 1030 03e9 20       		.byte	32
+ 1031 03ea 8A       		.byte	-118
+ 1032 03eb 20       		.byte	32
+ 1033 03ec B0       		.byte	-80
+ 1034 03ed 01       		.byte	1
+ 1035 03ee C6       		.byte	-58
+ 1036 03ef 01       		.byte	1
+ 1037 03f0 D4       		.byte	-44
+ 1038 03f1 02       		.byte	2
+ 1039 03f2 E4       		.byte	-28
+ 1040 03f3 01       		.byte	1
+ 1041 03f4 EA       		.byte	-22
+ 1042 03f5 01       		.byte	1
+ 1043 03f6 AF       		.byte	-81
+ 1044 03f7 80       		.byte	-128
+ 1045 03f8 10       		.byte	16
+ 1046 03f9 07       		.byte	7
+ 1047 03fa 1A       		.byte	26
+ 1048 03fb 03       		.byte	3
+ 1049 03fc 1C       		.byte	28
+ 1050 03fd 04       		.byte	4
+ 1051 03fe 00       		.byte	0
+ 1052 03ff 3F       		.byte	63
+ 1053 0400 04       		.byte	4
+ 1054 0401 00       		.byte	0
+ 1055 0402 00       		.byte	0
+ 1056 0403 0F       		.byte	15
+ 1057 0404 0F       		.byte	15
+ 1058 0405 00       		.byte	0
+ 1059 0406 04       		.byte	4
+ 1060 0407 00       		.byte	0
+ 1061 0408 00       		.byte	0
+ 1062 0409 00       		.byte	0
+ 1063 040a 00       		.byte	0
+ 1064 040b 00       		.byte	0
+ 1065 040c 00       		.byte	0
+ 1066 040d 00       		.byte	0
+ 1067 040e 10       		.byte	16
+ 1068 040f 00       		.byte	0
+ 1069 0410 10       		.byte	16
+ 1070 0411 00       		.byte	0
+ 1071 0412 21       		.byte	33
+ 1072 0413 00       		.byte	0
+ 1073 0414 00       		.byte	0
+ 1074 0415 00       		.byte	0
+ 1075 0416 00       		.byte	0
+ 1076 0417 00       		.byte	0
+ 1077 0418 00       		.byte	0
+ 1078 0419 00       		.byte	0
+ 1079 041a 02       		.byte	2
+ 1080 041b 00       		.byte	0
+ 1081 041c 20       		.byte	32
+ 1082 041d 00       		.byte	0
+ 1083 041e 18       		.byte	24
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 20
+
+
+ 1084 041f 01       		.byte	1
+ 1085 0420 20       		.byte	32
+ 1086 0421 00       		.byte	0
+ 1087 0422 18       		.byte	24
+ 1088 0423 01       		.byte	1
+ 1089              		.section	.cywolatch,"a",%progbits
+ 1090              		.align	2
+ 1091              		.type	cy_meta_wonvl, %object
+ 1092              		.size	cy_meta_wonvl, 4
+ 1093              	cy_meta_wonvl:
+ 1094 0000 BC       		.byte	-68
+ 1095 0001 90       		.byte	-112
+ 1096 0002 AC       		.byte	-84
+ 1097 0003 AF       		.byte	-81
+ 1098              		.section	.cycustnvl,"a",%progbits
+ 1099              		.align	2
+ 1100              		.type	cy_meta_custnvl, %object
+ 1101              		.size	cy_meta_custnvl, 4
+ 1102              	cy_meta_custnvl:
+ 1103 0000 00       		.byte	0
+ 1104 0001 00       		.byte	0
+ 1105 0002 40       		.byte	64
+ 1106 0003 05       		.byte	5
+ 1107              		.section	.cymeta,"a",%progbits
+ 1108              		.align	2
+ 1109              		.type	cy_metadata, %object
+ 1110              		.size	cy_metadata, 12
+ 1111              	cy_metadata:
+ 1112 0000 00       		.byte	0
+ 1113 0001 01       		.byte	1
+ 1114 0002 2E       		.byte	46
+ 1115 0003 12       		.byte	18
+ 1116 0004 30       		.byte	48
+ 1117 0005 69       		.byte	105
+ 1118 0006 00       		.byte	0
+ 1119 0007 01       		.byte	1
+ 1120 0008 00       		.byte	0
+ 1121 0009 00       		.byte	0
+ 1122 000a 00       		.byte	0
+ 1123 000b 00       		.byte	0
+ 1124              		.section	.cyflashprotect,"a",%progbits
+ 1125              		.align	2
+ 1126              		.type	cy_meta_flashprotect, %object
+ 1127              		.size	cy_meta_flashprotect, 256
+ 1128              	cy_meta_flashprotect:
+ 1129 0000 00000000 		.space	256
+ 1129      00000000 
+ 1129      00000000 
+ 1129      00000000 
+ 1129      00000000 
+ 1130              		.text
+ 1131              	.Letext0:
+ 1132              		.file 1 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
+ 1133              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
+ 1134              		.file 3 "Generated_Source\\PSoC5\\cymetadata.c"
+ 1135              		.section	.debug_info,"",%progbits
+ 1136              	.Ldebug_info0:
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 21
+
+
+ 1137 0000 31010000 		.4byte	0x131
+ 1138 0004 0400     		.2byte	0x4
+ 1139 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 1140 000a 04       		.byte	0x4
+ 1141 000b 01       		.uleb128 0x1
+ 1142 000c 24000000 		.4byte	.LASF17
+ 1143 0010 0C       		.byte	0xc
+ 1144 0011 B5010000 		.4byte	.LASF18
+ 1145 0015 69010000 		.4byte	.LASF19
+ 1146 0019 00000000 		.4byte	.Ldebug_line0
+ 1147 001d 02       		.uleb128 0x2
+ 1148 001e 01       		.byte	0x1
+ 1149 001f 06       		.byte	0x6
+ 1150 0020 A9010000 		.4byte	.LASF0
+ 1151 0024 03       		.uleb128 0x3
+ 1152 0025 00000000 		.4byte	.LASF9
+ 1153 0029 01       		.byte	0x1
+ 1154 002a 1D       		.byte	0x1d
+ 1155 002b 2F000000 		.4byte	0x2f
+ 1156 002f 02       		.uleb128 0x2
+ 1157 0030 01       		.byte	0x1
+ 1158 0031 08       		.byte	0x8
+ 1159 0032 16000000 		.4byte	.LASF1
+ 1160 0036 02       		.uleb128 0x2
+ 1161 0037 02       		.byte	0x2
+ 1162 0038 05       		.byte	0x5
+ 1163 0039 5F010000 		.4byte	.LASF2
+ 1164 003d 02       		.uleb128 0x2
+ 1165 003e 02       		.byte	0x2
+ 1166 003f 07       		.byte	0x7
+ 1167 0040 C4000000 		.4byte	.LASF3
+ 1168 0044 02       		.uleb128 0x2
+ 1169 0045 04       		.byte	0x4
+ 1170 0046 05       		.byte	0x5
+ 1171 0047 A0010000 		.4byte	.LASF4
+ 1172 004b 02       		.uleb128 0x2
+ 1173 004c 04       		.byte	0x4
+ 1174 004d 07       		.byte	0x7
+ 1175 004e B2000000 		.4byte	.LASF5
+ 1176 0052 02       		.uleb128 0x2
+ 1177 0053 08       		.byte	0x8
+ 1178 0054 05       		.byte	0x5
+ 1179 0055 51010000 		.4byte	.LASF6
+ 1180 0059 02       		.uleb128 0x2
+ 1181 005a 08       		.byte	0x8
+ 1182 005b 07       		.byte	0x7
+ 1183 005c 06010000 		.4byte	.LASF7
+ 1184 0060 04       		.uleb128 0x4
+ 1185 0061 04       		.byte	0x4
+ 1186 0062 05       		.byte	0x5
+ 1187 0063 696E7400 		.ascii	"int\000"
+ 1188 0067 02       		.uleb128 0x2
+ 1189 0068 04       		.byte	0x4
+ 1190 0069 07       		.byte	0x7
+ 1191 006a F9000000 		.4byte	.LASF8
+ 1192 006e 03       		.uleb128 0x3
+ 1193 006f 1D010000 		.4byte	.LASF10
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 22
+
+
+ 1194 0073 02       		.byte	0x2
+ 1195 0074 18       		.byte	0x18
+ 1196 0075 24000000 		.4byte	0x24
+ 1197 0079 05       		.uleb128 0x5
+ 1198 007a 91000000 		.4byte	0x91
+ 1199 007e 8A000000 		.4byte	0x8a
+ 1200 0082 06       		.uleb128 0x6
+ 1201 0083 8A000000 		.4byte	0x8a
+ 1202 0087 2304     		.2byte	0x423
+ 1203 0089 00       		.byte	0
+ 1204 008a 02       		.uleb128 0x2
+ 1205 008b 04       		.byte	0x4
+ 1206 008c 07       		.byte	0x7
+ 1207 008d 48010000 		.4byte	.LASF11
+ 1208 0091 07       		.uleb128 0x7
+ 1209 0092 6E000000 		.4byte	0x6e
+ 1210 0096 08       		.uleb128 0x8
+ 1211 0097 E7000000 		.4byte	.LASF12
+ 1212 009b 03       		.byte	0x3
+ 1213 009c 1F       		.byte	0x1f
+ 1214 009d A7000000 		.4byte	0xa7
+ 1215 00a1 05       		.uleb128 0x5
+ 1216 00a2 03       		.byte	0x3
+ 1217 00a3 00000000 		.4byte	cy_meta_configecc
+ 1218 00a7 07       		.uleb128 0x7
+ 1219 00a8 79000000 		.4byte	0x79
+ 1220 00ac 05       		.uleb128 0x5
+ 1221 00ad 91000000 		.4byte	0x91
+ 1222 00b1 BC000000 		.4byte	0xbc
+ 1223 00b5 09       		.uleb128 0x9
+ 1224 00b6 8A000000 		.4byte	0x8a
+ 1225 00ba 03       		.byte	0x3
+ 1226 00bb 00       		.byte	0
+ 1227 00bc 08       		.uleb128 0x8
+ 1228 00bd D7000000 		.4byte	.LASF13
+ 1229 00c1 03       		.byte	0x3
+ 1230 00c2 B1       		.byte	0xb1
+ 1231 00c3 CD000000 		.4byte	0xcd
+ 1232 00c7 05       		.uleb128 0x5
+ 1233 00c8 03       		.byte	0x3
+ 1234 00c9 00000000 		.4byte	cy_meta_custnvl
+ 1235 00cd 07       		.uleb128 0x7
+ 1236 00ce AC000000 		.4byte	0xac
+ 1237 00d2 08       		.uleb128 0x8
+ 1238 00d3 3A010000 		.4byte	.LASF14
+ 1239 00d7 03       		.byte	0x3
+ 1240 00d8 BF       		.byte	0xbf
+ 1241 00d9 E3000000 		.4byte	0xe3
+ 1242 00dd 05       		.uleb128 0x5
+ 1243 00de 03       		.byte	0x3
+ 1244 00df 00000000 		.4byte	cy_meta_wonvl
+ 1245 00e3 07       		.uleb128 0x7
+ 1246 00e4 AC000000 		.4byte	0xac
+ 1247 00e8 05       		.uleb128 0x5
+ 1248 00e9 91000000 		.4byte	0x91
+ 1249 00ed F8000000 		.4byte	0xf8
+ 1250 00f1 09       		.uleb128 0x9
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 23
+
+
+ 1251 00f2 8A000000 		.4byte	0x8a
+ 1252 00f6 FF       		.byte	0xff
+ 1253 00f7 00       		.byte	0
+ 1254 00f8 08       		.uleb128 0x8
+ 1255 00f9 25010000 		.4byte	.LASF15
+ 1256 00fd 03       		.byte	0x3
+ 1257 00fe CD       		.byte	0xcd
+ 1258 00ff 09010000 		.4byte	0x109
+ 1259 0103 05       		.uleb128 0x5
+ 1260 0104 03       		.byte	0x3
+ 1261 0105 00000000 		.4byte	cy_meta_flashprotect
+ 1262 0109 07       		.uleb128 0x7
+ 1263 010a E8000000 		.4byte	0xe8
+ 1264 010e 05       		.uleb128 0x5
+ 1265 010f 91000000 		.4byte	0x91
+ 1266 0113 1E010000 		.4byte	0x11e
+ 1267 0117 09       		.uleb128 0x9
+ 1268 0118 8A000000 		.4byte	0x8a
+ 1269 011c 0B       		.byte	0xb
+ 1270 011d 00       		.byte	0
+ 1271 011e 08       		.uleb128 0x8
+ 1272 011f 0A000000 		.4byte	.LASF16
+ 1273 0123 03       		.byte	0x3
+ 1274 0124 FA       		.byte	0xfa
+ 1275 0125 2F010000 		.4byte	0x12f
+ 1276 0129 05       		.uleb128 0x5
+ 1277 012a 03       		.byte	0x3
+ 1278 012b 00000000 		.4byte	cy_metadata
+ 1279 012f 07       		.uleb128 0x7
+ 1280 0130 0E010000 		.4byte	0x10e
+ 1281 0134 00       		.byte	0
+ 1282              		.section	.debug_abbrev,"",%progbits
+ 1283              	.Ldebug_abbrev0:
+ 1284 0000 01       		.uleb128 0x1
+ 1285 0001 11       		.uleb128 0x11
+ 1286 0002 01       		.byte	0x1
+ 1287 0003 25       		.uleb128 0x25
+ 1288 0004 0E       		.uleb128 0xe
+ 1289 0005 13       		.uleb128 0x13
+ 1290 0006 0B       		.uleb128 0xb
+ 1291 0007 03       		.uleb128 0x3
+ 1292 0008 0E       		.uleb128 0xe
+ 1293 0009 1B       		.uleb128 0x1b
+ 1294 000a 0E       		.uleb128 0xe
+ 1295 000b 10       		.uleb128 0x10
+ 1296 000c 17       		.uleb128 0x17
+ 1297 000d 00       		.byte	0
+ 1298 000e 00       		.byte	0
+ 1299 000f 02       		.uleb128 0x2
+ 1300 0010 24       		.uleb128 0x24
+ 1301 0011 00       		.byte	0
+ 1302 0012 0B       		.uleb128 0xb
+ 1303 0013 0B       		.uleb128 0xb
+ 1304 0014 3E       		.uleb128 0x3e
+ 1305 0015 0B       		.uleb128 0xb
+ 1306 0016 03       		.uleb128 0x3
+ 1307 0017 0E       		.uleb128 0xe
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 24
+
+
+ 1308 0018 00       		.byte	0
+ 1309 0019 00       		.byte	0
+ 1310 001a 03       		.uleb128 0x3
+ 1311 001b 16       		.uleb128 0x16
+ 1312 001c 00       		.byte	0
+ 1313 001d 03       		.uleb128 0x3
+ 1314 001e 0E       		.uleb128 0xe
+ 1315 001f 3A       		.uleb128 0x3a
+ 1316 0020 0B       		.uleb128 0xb
+ 1317 0021 3B       		.uleb128 0x3b
+ 1318 0022 0B       		.uleb128 0xb
+ 1319 0023 49       		.uleb128 0x49
+ 1320 0024 13       		.uleb128 0x13
+ 1321 0025 00       		.byte	0
+ 1322 0026 00       		.byte	0
+ 1323 0027 04       		.uleb128 0x4
+ 1324 0028 24       		.uleb128 0x24
+ 1325 0029 00       		.byte	0
+ 1326 002a 0B       		.uleb128 0xb
+ 1327 002b 0B       		.uleb128 0xb
+ 1328 002c 3E       		.uleb128 0x3e
+ 1329 002d 0B       		.uleb128 0xb
+ 1330 002e 03       		.uleb128 0x3
+ 1331 002f 08       		.uleb128 0x8
+ 1332 0030 00       		.byte	0
+ 1333 0031 00       		.byte	0
+ 1334 0032 05       		.uleb128 0x5
+ 1335 0033 01       		.uleb128 0x1
+ 1336 0034 01       		.byte	0x1
+ 1337 0035 49       		.uleb128 0x49
+ 1338 0036 13       		.uleb128 0x13
+ 1339 0037 01       		.uleb128 0x1
+ 1340 0038 13       		.uleb128 0x13
+ 1341 0039 00       		.byte	0
+ 1342 003a 00       		.byte	0
+ 1343 003b 06       		.uleb128 0x6
+ 1344 003c 21       		.uleb128 0x21
+ 1345 003d 00       		.byte	0
+ 1346 003e 49       		.uleb128 0x49
+ 1347 003f 13       		.uleb128 0x13
+ 1348 0040 2F       		.uleb128 0x2f
+ 1349 0041 05       		.uleb128 0x5
+ 1350 0042 00       		.byte	0
+ 1351 0043 00       		.byte	0
+ 1352 0044 07       		.uleb128 0x7
+ 1353 0045 26       		.uleb128 0x26
+ 1354 0046 00       		.byte	0
+ 1355 0047 49       		.uleb128 0x49
+ 1356 0048 13       		.uleb128 0x13
+ 1357 0049 00       		.byte	0
+ 1358 004a 00       		.byte	0
+ 1359 004b 08       		.uleb128 0x8
+ 1360 004c 34       		.uleb128 0x34
+ 1361 004d 00       		.byte	0
+ 1362 004e 03       		.uleb128 0x3
+ 1363 004f 0E       		.uleb128 0xe
+ 1364 0050 3A       		.uleb128 0x3a
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 25
+
+
+ 1365 0051 0B       		.uleb128 0xb
+ 1366 0052 3B       		.uleb128 0x3b
+ 1367 0053 0B       		.uleb128 0xb
+ 1368 0054 49       		.uleb128 0x49
+ 1369 0055 13       		.uleb128 0x13
+ 1370 0056 3F       		.uleb128 0x3f
+ 1371 0057 19       		.uleb128 0x19
+ 1372 0058 02       		.uleb128 0x2
+ 1373 0059 18       		.uleb128 0x18
+ 1374 005a 00       		.byte	0
+ 1375 005b 00       		.byte	0
+ 1376 005c 09       		.uleb128 0x9
+ 1377 005d 21       		.uleb128 0x21
+ 1378 005e 00       		.byte	0
+ 1379 005f 49       		.uleb128 0x49
+ 1380 0060 13       		.uleb128 0x13
+ 1381 0061 2F       		.uleb128 0x2f
+ 1382 0062 0B       		.uleb128 0xb
+ 1383 0063 00       		.byte	0
+ 1384 0064 00       		.byte	0
+ 1385 0065 00       		.byte	0
+ 1386              		.section	.debug_aranges,"",%progbits
+ 1387 0000 14000000 		.4byte	0x14
+ 1388 0004 0200     		.2byte	0x2
+ 1389 0006 00000000 		.4byte	.Ldebug_info0
+ 1390 000a 04       		.byte	0x4
+ 1391 000b 00       		.byte	0
+ 1392 000c 0000     		.2byte	0
+ 1393 000e 0000     		.2byte	0
+ 1394 0010 00000000 		.4byte	0
+ 1395 0014 00000000 		.4byte	0
+ 1396              		.section	.debug_line,"",%progbits
+ 1397              	.Ldebug_line0:
+ 1398 0000 3D010000 		.section	.debug_str,"MS",%progbits,1
+ 1398      02003701 
+ 1398      00000201 
+ 1398      FB0E0D00 
+ 1398      01010101 
+ 1399              	.LASF9:
+ 1400 0000 5F5F7569 		.ascii	"__uint8_t\000"
+ 1400      6E74385F 
+ 1400      7400
+ 1401              	.LASF16:
+ 1402 000a 63795F6D 		.ascii	"cy_metadata\000"
+ 1402      65746164 
+ 1402      61746100 
+ 1403              	.LASF1:
+ 1404 0016 756E7369 		.ascii	"unsigned char\000"
+ 1404      676E6564 
+ 1404      20636861 
+ 1404      7200
+ 1405              	.LASF17:
+ 1406 0024 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 1406      43313120 
+ 1406      352E342E 
+ 1406      31203230 
+ 1406      31363036 
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 26
+
+
+ 1407 0057 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
+ 1407      20726576 
+ 1407      6973696F 
+ 1407      6E203233 
+ 1407      37373135 
+ 1408 008a 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 1408      66756E63 
+ 1408      74696F6E 
+ 1408      2D736563 
+ 1408      74696F6E 
+ 1409              	.LASF5:
+ 1410 00b2 6C6F6E67 		.ascii	"long unsigned int\000"
+ 1410      20756E73 
+ 1410      69676E65 
+ 1410      6420696E 
+ 1410      7400
+ 1411              	.LASF3:
+ 1412 00c4 73686F72 		.ascii	"short unsigned int\000"
+ 1412      7420756E 
+ 1412      7369676E 
+ 1412      65642069 
+ 1412      6E7400
+ 1413              	.LASF13:
+ 1414 00d7 63795F6D 		.ascii	"cy_meta_custnvl\000"
+ 1414      6574615F 
+ 1414      63757374 
+ 1414      6E766C00 
+ 1415              	.LASF12:
+ 1416 00e7 63795F6D 		.ascii	"cy_meta_configecc\000"
+ 1416      6574615F 
+ 1416      636F6E66 
+ 1416      69676563 
+ 1416      6300
+ 1417              	.LASF8:
+ 1418 00f9 756E7369 		.ascii	"unsigned int\000"
+ 1418      676E6564 
+ 1418      20696E74 
+ 1418      00
+ 1419              	.LASF7:
+ 1420 0106 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 1420      206C6F6E 
+ 1420      6720756E 
+ 1420      7369676E 
+ 1420      65642069 
+ 1421              	.LASF10:
+ 1422 011d 75696E74 		.ascii	"uint8_t\000"
+ 1422      385F7400 
+ 1423              	.LASF15:
+ 1424 0125 63795F6D 		.ascii	"cy_meta_flashprotect\000"
+ 1424      6574615F 
+ 1424      666C6173 
+ 1424      6870726F 
+ 1424      74656374 
+ 1425              	.LASF14:
+ 1426 013a 63795F6D 		.ascii	"cy_meta_wonvl\000"
+ 1426      6574615F 
+ 1426      776F6E76 
+ARM GAS  C:\Users\ujjjh\AppData\Local\Temp\cckiFzof.s 			page 27
+
+
+ 1426      6C00
+ 1427              	.LASF11:
+ 1428 0148 73697A65 		.ascii	"sizetype\000"
+ 1428      74797065 
+ 1428      00
+ 1429              	.LASF6:
+ 1430 0151 6C6F6E67 		.ascii	"long long int\000"
+ 1430      206C6F6E 
+ 1430      6720696E 
+ 1430      7400
+ 1431              	.LASF2:
+ 1432 015f 73686F72 		.ascii	"short int\000"
+ 1432      7420696E 
+ 1432      7400
+ 1433              	.LASF19:
+ 1434 0169 553A5C44 		.ascii	"U:\\Documents\\PSoC Creator\\Wetterstation\\Design0"
+ 1434      6F63756D 
+ 1434      656E7473 
+ 1434      5C50536F 
+ 1434      43204372 
+ 1435 0198 312E6379 		.ascii	"1.cydsn\000"
+ 1435      64736E00 
+ 1436              	.LASF4:
+ 1437 01a0 6C6F6E67 		.ascii	"long int\000"
+ 1437      20696E74 
+ 1437      00
+ 1438              	.LASF0:
+ 1439 01a9 7369676E 		.ascii	"signed char\000"
+ 1439      65642063 
+ 1439      68617200 
+ 1440              	.LASF18:
+ 1441 01b5 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
+ 1441      72617465 
+ 1441      645F536F 
+ 1441      75726365 
+ 1441      5C50536F 
+ 1442              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

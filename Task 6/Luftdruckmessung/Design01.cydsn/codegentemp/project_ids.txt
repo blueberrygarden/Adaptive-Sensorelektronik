@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b5b4759c-4992-4451-abbd-176baff00056
+U:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|f061922c-2695-4b36-8ace-972b9ede7241
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|82397509-551a-41e9-b309-1571c9fb7cc3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|22515d88-b250-41ea-8dc9-a61461daba20
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|02842115-b77c-427d-a1f4-8f7d7b82844c
+U:\Documents\PSoC Creator\Luftdruckmessung\Design01.cydsn\Design01.cyprj|27f3e898-f7ae-4d9a-8c8e-47db1ac211c3

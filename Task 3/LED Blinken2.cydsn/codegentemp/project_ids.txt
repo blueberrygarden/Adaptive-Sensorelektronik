@@ -1,0 +1,8 @@
+U:\Documents\PSoC Creator\Versuch 3\LED Blinken2.cydsn\LED Blinken2.cyprj|3ba05036-54a8-4421-b21d-d53614fe6fec
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|92e711b1-8318-497f-b81c-cd57cc3869ca
+U:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|baa233ef-3a1c-427d-836b-8084a4d7b7c7
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|db3f2545-c490-4cd0-b7d7-a33a448d3337
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|7b41e335-11c9-446a-9179-0b6bea39fbf2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f1e5edc1-366a-42e9-afeb-3839756361de
+U:\Documents\PSoC Creator\Versuch 3\LED Klinken1.cydsn\LED Klinken1.cyprj|5310ed36-cad8-471f-a411-84d2e8a8f52c
+U:\Documents\PSoC Creator\Versuch 3\LED Display.cydsn\LED Display.cyprj|1a95abe2-ceac-46fb-86fc-3df0504ce475

@@ -1,0 +1,18 @@
+# 555Timer
+# 2020-07-13 15:32:02Z
+
+# IO_0@[IOP=(1)][IoId=(0)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 0
+# IO_1@[IOP=(1)][IoId=(1)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 1
+# IO_3@[IOP=(1)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 3
+set_location "ClockBlock" clockblockcell -1 -1 0
+set_io "Discharge(0)" iocell 3 4
+set_io "Compare(0)" iocell 3 5
+set_io "Oszilloskop(0)" iocell 0 1
+set_location "\Comp_1:ctComp\" comparatorcell -1 -1 3
+set_location "\Trigger_1:viDAC8\" vidaccell -1 -1 3
+set_location "\Comp_2:ctComp\" comparatorcell -1 -1 1
+set_location "\Threshold_1:viDAC8\" vidaccell -1 -1 1
+set_location "Net_433" 3 2 0 0

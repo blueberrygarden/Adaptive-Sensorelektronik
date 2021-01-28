@@ -1,0 +1,26 @@
+(DELAYFILE
+ (SDFVERSION "IEEE 1497 4.0")
+ (DATE "2020-07-08T13:19:42Z")
+ (DESIGN "LED 10x Blinken")
+ (VENDOR "Cypress Semiconductor")
+ (PROGRAM "PSoC Creator")
+ (VERSION " 4.2")
+ (DIVIDER .)
+ (TIMESCALE 1 ns)
+ (CELL
+  (CELLTYPE "LED 10x Blinken")
+  (INSTANCE *)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT LED_1\(0\).pad_out LED_1\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT LED_2\(0\).pad_out LED_2\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT ClockBlock.dclk_1 LED_1\(0\).pin_input (5.252:5.252:5.252))
+    (INTERCONNECT ClockBlock.dclk_0 LED_2\(0\).pin_input (5.248:5.248:5.248))
+    (INTERCONNECT LED_1\(0\).pad_out LED_1\(0\)_PAD (0.000:0.000:0.000))
+    (INTERCONNECT LED_1\(0\)_PAD LED_1\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT LED_2\(0\).pad_out LED_2\(0\)_PAD (0.000:0.000:0.000))
+    (INTERCONNECT LED_2\(0\)_PAD LED_2\(0\).pad_in (0.000:0.000:0.000))
+   )
+  )
+ )
+)

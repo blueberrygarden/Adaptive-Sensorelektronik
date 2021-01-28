@@ -1,0 +1,8 @@
+\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\Testvariable.cydsn\Testvariable.cyprj|23bc51bf-07c8-4919-b25b-99b4f5abb079
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|956a06fc-1649-4b91-b224-e475f6049514
+U:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|53515c70-5dcc-4ea6-acc6-67cf3a42d782
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e9f241a9-5753-4233-a025-11d502857eb0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2801442e-5160-46a4-8b8a-9bffe2c3cccf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|95a68a5e-6aeb-41b5-8e25-c395f0ac470c
+\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\PGA test.cydsn\PGA test.cyprj|23de71bc-4aa7-46ae-a376-40c97d488850
+\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\ADW versenden.cydsn\ADW versenden.cyprj|4a194c7b-cabd-493e-8ad7-85308233691c

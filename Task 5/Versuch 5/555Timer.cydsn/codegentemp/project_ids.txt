@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|fe084ee4-6dda-415e-8ef5-1260e1583b9e
+U:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|59340ed5-4aba-49d7-bb8d-08c9f9e0b2fa
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|bc92a596-a2fd-4722-9a63-06afe605d483
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e0d5efac-669c-44ba-9bcf-492ea1764ac2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|9ce239d0-fb17-4d9f-b545-0771db77059c
+\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 5\Frequenzzaehler.cydsn\Frequenzzaehler.cyprj|5a783d3b-bbd6-4edd-9cb7-a1a8a13dbb12
+\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 5\555Timer.cydsn\555Timer.cyprj|551d370e-6520-406d-b6b5-d80785871ead

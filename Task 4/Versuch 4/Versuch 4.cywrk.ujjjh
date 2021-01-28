@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Versuch 4\Testvariable">
+<ExpandedNodeIds>
+<v>Versuch 4</v>
+<v>Versuch 4\PGA test\TopDesign</v>
+<v>Versuch 4\PGA test\PGA test.cydwr</v>
+<v>Versuch 4\PGA test\PGA test.cydwr\Pins</v>
+<v>Versuch 4\PGA test\PGA test.cydwr\Analog</v>
+<v>Versuch 4\PGA test\PGA test.cydwr\Clocks</v>
+<v>Versuch 4\PGA test\PGA test.cydwr\Interrupts</v>
+<v>Versuch 4\PGA test\PGA test.cydwr\DMA</v>
+<v>Versuch 4\PGA test\PGA test.cydwr\System</v>
+<v>Versuch 4\PGA test\PGA test.cydwr\Directives</v>
+<v>Versuch 4\PGA test\PGA test.cydwr\Flash Security</v>
+<v>Versuch 4\PGA test\PGA test.cydwr\EEPROM</v>
+<v>Versuch 4\PGA test\Header Files</v>
+<v>Versuch 4\PGA test\Header Files\cyapicallbacks.h</v>
+<v>Versuch 4\PGA test\Source Files</v>
+<v>Versuch 4\PGA test\Source Files\main.c</v>
+<v>Versuch 4\PGA test\Generated_Source</v>
+<v>Versuch 4\PGA test\Generated_Source\PSoC5</v>
+<v>Versuch 4\Temperaturmessung\TopDesign</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr\Pins</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr\Analog</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr\Clocks</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr\Interrupts</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr\DMA</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr\System</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr\Directives</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr\Flash Security</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.cydwr\EEPROM</v>
+<v>Versuch 4\Temperaturmessung\Header Files</v>
+<v>Versuch 4\Temperaturmessung\Header Files\cyapicallbacks.h</v>
+<v>Versuch 4\Temperaturmessung\Source Files</v>
+<v>Versuch 4\Temperaturmessung\Source Files\main.c</v>
+<v>Versuch 4\Temperaturmessung\Generated_Source</v>
+<v>Versuch 4\Temperaturmessung\Generated_Source\PSoC5</v>
+<v>Versuch 4\Testvariable\TopDesign</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr\Pins</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr\Analog</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr\Clocks</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr\Interrupts</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr\DMA</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr\System</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr\Directives</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr\Flash Security</v>
+<v>Versuch 4\Testvariable\Testvariable.cydwr\EEPROM</v>
+<v>Versuch 4\Testvariable\Header Files</v>
+<v>Versuch 4\Testvariable\Header Files\cyapicallbacks.h</v>
+<v>Versuch 4\Testvariable\Source Files</v>
+<v>Versuch 4\Testvariable\Source Files\main.c</v>
+<v>Versuch 4\Testvariable\Generated_Source</v>
+<v>Versuch 4\Testvariable\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Versuch 4</v>
+<v>Versuch 4\PGA test</v>
+<v>Versuch 4\Temperaturmessung</v>
+<v>Versuch 4\Testvariable</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Versuch 4</v>
+<v>Versuch 4\PGA test</v>
+<v>Versuch 4\PGA test\TopDesign</v>
+<v>Versuch 4\PGA test\TopDesign\TopDesign.cysch</v>
+<v>Versuch 4\Temperaturmessung</v>
+<v>Versuch 4\Temperaturmessung\TopDesign</v>
+<v>Versuch 4\Temperaturmessung\TopDesign\TopDesign.cysch</v>
+<v>Versuch 4\Testvariable</v>
+<v>Versuch 4\Testvariable\TopDesign</v>
+<v>Versuch 4\Testvariable\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Versuch 4</v>
+<v>Versuch 4\PGA test</v>
+<v>Versuch 4\PGA test\TopDesign</v>
+<v>Versuch 4\PGA test\TopDesign\TopDesign.cysch</v>
+<v>Versuch 4\Temperaturmessung</v>
+<v>Versuch 4\Temperaturmessung\TopDesign</v>
+<v>Versuch 4\Temperaturmessung\TopDesign\TopDesign.cysch</v>
+<v>Versuch 4\Testvariable</v>
+<v>Versuch 4\Testvariable\TopDesign</v>
+<v>Versuch 4\Testvariable\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Versuch 4">
+<ExpandedNodeIds>
+<v>Versuch 4</v>
+<v>Versuch 4\PGA test</v>
+<v>Versuch 4\PGA test\CortexM3</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_1.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_2.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1_PM.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_1.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_1_PM.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_2.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_2_PM.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_3.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_3_PM.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\PGA test.elf</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\PGA test.hex</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\PGA test.map</v>
+<v>Versuch 4\PGA test\PGA test.gpdsc</v>
+<v>Versuch 4\PGA test\PGA test.rpt</v>
+<v>Versuch 4\PGA test\PGA test_timing.html</v>
+<v>Versuch 4\Temperaturmessung</v>
+<v>Versuch 4\Temperaturmessung\CortexM3</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_INT.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_IRQ.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_PM.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_theACLK.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_1.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_1_LCDPort.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_1_PM.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_2.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1_PM.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_1.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_1_PM.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\Sensorspannung.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_INT.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Temperaturmessung.elf</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Temperaturmessung.hex</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Temperaturmessung.map</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.gpdsc</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung.rpt</v>
+<v>Versuch 4\Temperaturmessung\Temperaturmessung_timing.html</v>
+<v>Versuch 4\Testvariable</v>
+<v>Versuch 4\Testvariable\CortexM3</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_INT.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Testvariable.elf</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Testvariable.hex</v>
+<v>Versuch 4\Testvariable\CortexM3\ARM_GCC_541\Debug\Testvariable.map</v>
+<v>Versuch 4\Testvariable\Testvariable.gpdsc</v>
+<v>Versuch 4\Testvariable\Testvariable.rpt</v>
+<v>Versuch 4\Testvariable\Testvariable_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Versuch 4</v>
+<v>Versuch 4\PGA test</v>
+<v>Versuch 4\PGA test\CortexM3</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_1.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_2.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1_PM.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_1.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_1_PM.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_2.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_2_PM.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_3.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_3_PM.lst</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\PGA test.elf</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\PGA test.hex</v>
+<v>Versuch 4\PGA test\CortexM3\ARM_GCC_541\Debug\PGA test.map</v>
+<v>Versuch 4\PGA test\PGA test.gpdsc</v>
+<v>Versuch 4\PGA test\PGA test.rpt</v>
+<v>Versuch 4\PGA test\PGA test_timing.html</v>
+<v>Versuch 4\Temperaturmessung</v>
+<v>Versuch 4\Temperaturmessung\CortexM3</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_INT.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_IRQ.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_PM.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_theACLK.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Versuch 4\Temperaturmessung\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Versuch 4">
+<ExpandedNodeIds>
+<v>Versuch 4</v>
+<v>Versuch 4\PGA test</v>
+<v>Versuch 4\PGA test\PSoC 5LP Architecture TRM</v>
+<v>Versuch 4\PGA test\CY8C58LP Family Datasheet</v>
+<v>Versuch 4\PGA test\System Reference Guides</v>
+<v>Versuch 4\PGA test\System Reference Guides\cy_boot_v5_70</v>
+<v>Versuch 4\PGA test\cy_pins_v2_20</v>
+<v>Versuch 4\PGA test\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Versuch 4\PGA test\PGA_v2_0.pdf</v>
+<v>Versuch 4\PGA test\VDAC8_v1_90</v>
+<v>Versuch 4\PGA test\VDAC8_v1_90\VDAC8_v1_90.pdf</v>
+<v>Versuch 4\Temperaturmessung</v>
+<v>Versuch 4\Temperaturmessung\PSoC 5LP Architecture TRM</v>
+<v>Versuch 4\Temperaturmessung\CY8C58LP Family Datasheet</v>
+<v>Versuch 4\Temperaturmessung\System Reference Guides</v>
+<v>Versuch 4\Temperaturmessung\System Reference Guides\cy_boot_v5_70</v>
+<v>Versuch 4\Temperaturmessung\ADC_SAR_v3_10.pdf</v>
+<v>Versuch 4\Temperaturmessung\CharLCD_v2_20.pdf</v>
+<v>Versuch 4\Temperaturmessung\cy_clock_v2_20.pdf</v>
+<v>Versuch 4\Temperaturmessung\cy_constant_v1_0</v>
+<v>Versuch 4\Temperaturmessung\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Versuch 4\Temperaturmessung\cy_pins_v2_20</v>
+<v>Versuch 4\Temperaturmessung\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Versuch 4\Temperaturmessung\cy_vref_v1_70</v>
+<v>Versuch 4\Temperaturmessung\cy_vref_v1_70\cy_vref_v1_70.pdf</v>
+<v>Versuch 4\Temperaturmessung\PGA_v2_0.pdf</v>
+<v>Versuch 4\Temperaturmessung\PWM_v3_30.pdf</v>
+<v>Versuch 4\Temperaturmessung\UART_v2_50.pdf</v>
+<v>Versuch 4\Testvariable</v>
+<v>Versuch 4\Testvariable\PSoC 5LP Architecture TRM</v>
+<v>Versuch 4\Testvariable\CY8C58LP Family Datasheet</v>
+<v>Versuch 4\Testvariable\System Reference Guides</v>
+<v>Versuch 4\Testvariable\System Reference Guides\cy_boot_v5_70</v>
+<v>Versuch 4\Testvariable\cy_constant_v1_0.pdf</v>
+<v>Versuch 4\Testvariable\cy_pins_v2_20.pdf</v>
+<v>Versuch 4\Testvariable\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Versuch 4</v>
+<v>Versuch 4\PGA test</v>
+<v>Versuch 4\PGA test\PSoC 5LP Architecture TRM</v>
+<v>Versuch 4\PGA test\CY8C58LP Family Datasheet</v>
+<v>Versuch 4\PGA test\System Reference Guides</v>
+<v>Versuch 4\PGA test\System Reference Guides\cy_boot_v5_70</v>
+<v>Versuch 4\PGA test\cy_pins_v2_20</v>
+<v>Versuch 4\PGA test\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Versuch 4\PGA test\PGA_v2_0.pdf</v>
+<v>Versuch 4\PGA test\VDAC8_v1_90</v>
+<v>Versuch 4\PGA test\VDAC8_v1_90\VDAC8_v1_90.pdf</v>
+<v>Versuch 4\Temperaturmessung</v>
+<v>Versuch 4\Temperaturmessung\PSoC 5LP Architecture TRM</v>
+<v>Versuch 4\Temperaturmessung\CY8C58LP Family Datasheet</v>
+<v>Versuch 4\Temperaturmessung\System Reference Guides</v>
+<v>Versuch 4\Temperaturmessung\System Reference Guides\cy_boot_v5_70</v>
+<v>Versuch 4\Temperaturmessung\ADC_SAR_v3_10.pdf</v>
+<v>Versuch 4\Temperaturmessung\CharLCD_v2_20.pdf</v>
+<v>Versuch 4\Temperaturmessung\cy_clock_v2_20.pdf</v>
+<v>Versuch 4\Temperaturmessung\cy_constant_v1_0</v>
+<v>Versuch 4\Temperaturmessung\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Versuch 4\Temperaturmessung\cy_pins_v2_20</v>
+<v>Versuch 4\Temperaturmessung\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Versuch 4\Temperaturmessung\cy_vref_v1_70</v>
+<v>Versuch 4\Temperaturmessung\cy_vref_v1_70\cy_vref_v1_70.pdf</v>
+<v>Versuch 4\Temperaturmessung\PGA_v2_0.pdf</v>
+<v>Versuch 4\Temperaturmessung\PWM_v3_30.pdf</v>
+<v>Versuch 4\Temperaturmessung\UART_v2_50.pdf</v>
+<v>Versuch 4\Testvariable</v>
+<v>Versuch 4\Testvariable\PSoC 5LP Architecture TRM</v>
+<v>Versuch 4\Testvariable\CY8C58LP Family Datasheet</v>
+<v>Versuch 4\Testvariable\System Reference Guides</v>
+<v>Versuch 4\Testvariable\System Reference Guides\cy_boot_v5_70</v>
+<v>Versuch 4\Testvariable\cy_constant_v1_0.pdf</v>
+<v>Versuch 4\Testvariable\cy_pins_v2_20.pdf</v>
+<v>Versuch 4\Testvariable\UART_v2_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\PGA test.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\PGA test.cydsn\PGA test.cydwr" />
+<name v=".\PGA test.cydsn\main.c" />
+<name v=".\Testvariable.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Testvariable.cydsn\main.c" />
+<name v=".\Temperaturmessung.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Temperaturmessung.cydsn\Temperaturmessung.cydwr" />
+<name v=".\Temperaturmessung.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="952, 695" SelectedTabbedMdiWindow="a7dc5134-c615-4dd5-bd88-b1d6c1d7a977"><DocumentWindow Key="\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\PGA test.cydsn\TopDesign\TopDesign.cysch" Guid="fe7c9bbe-d397-4c7e-b106-506a75638c98" /><DocumentWindow Key="\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\PGA test.cydsn\PGA test.cydwr" Guid="d2ed47a5-dff0-47ea-8d44-7756c675c4e9" /><DocumentWindow Key="\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\PGA test.cydsn\main.c" Guid="2152a383-10ce-4bbb-a57b-50f54923758f" /><DocumentWindow Key="\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\Testvariable.cydsn\TopDesign\TopDesign.cysch" Guid="412047f8-910d-47ce-b929-005372563d93" /><DocumentWindow Key="\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\Testvariable.cydsn\main.c" Guid="ef846a93-a4bd-4980-b6b5-91701d02c1d8" /><DocumentWindow Key="\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\Temperaturmessung.cydsn\TopDesign\TopDesign.cysch" Guid="cdb14788-7e10-441f-83c3-12dcb4ca4272" /><DocumentWindow Key="\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\Temperaturmessung.cydsn\Temperaturmessung.cydwr" Guid="45ec4881-ad96-44d0-8544-1bf7fa6e4e0e" /><DocumentWindow Key="\\sccfs.scc.kit.edu\Stud-Home\Documents\PSoC Creator\Versuch 4\Temperaturmessung.cydsn\main.c" Guid="a7dc5134-c615-4dd5-bd88-b1d6c1d7a977" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

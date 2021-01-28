@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|137714f6-f8eb-4e4a-9fe2-f1e991ac3e28
+U:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|7637c8ce-055d-44be-a536-7d6db9738993
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ff1d76aa-7fd9-4842-b895-4df8706f0439
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|4da7c8b4-5f03-45e4-8a19-27653266411d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|2b3e60be-be7b-4c1b-8a86-09d287d025c7
+U:\Documents\PSoC Creator\Wetterstation\Design01.cydsn\Design01.cyprj|1bb22985-1c5e-411c-b2db-b012eb85b48d
