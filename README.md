@@ -1,2 +1,10 @@
-# Adaptive-Sensorelektronik
-Smart home
+### Was ist ASE?
+Werden sowohl digitale als auch analoge Funktionen gemeinsam auf einem Chip realisiert, so spricht man von Mixed-Signal-Chips oder System-on-Chip (SoC). Bei dem im Praktikum benutzten Produkt der Firma Cypress können die digitalen und analogen Komponenten von einem Mikrocontroller programmiert werden (P). Es ist im Besonderen möglich, bei einem Programmiervorgang mehrere potentielle Schaltungsdesigns zu übertragen, so dass der Mikrocontroller den Chip dynamisch rekonfigurieren kann. Diese Rekonfiguration erfolgt (im Gegensatz zur eigentlichen Programmierung des Mikrocontrollers) sehr schnell, so dass die Chipressourcen sehr effizient genutzt werden können.
+### Aufbau des Praktikums
+In den ersten zwei Versuchen soll das Loxone „Smart Home“ System und seine Programmierung mithilfe der Software Loxone Config vorgestellt und erlernt werden. Es werden logische Abläufe und Visualisierungen erstellt, die im Verlauf des Praktikums immer wieder benötigt werden, um die vom PSoC gesendeten Daten zu verarbeiten und darzustellen. Der zweite und größte Teil des Praktikums nutzt den PSoC-Creator (ein Software-Tool), um festzulegen, welche digitalen und analogen Funktionen realisiert werden und wie diese miteinander verschaltet werden. Weiterhin wird per Programmcode (C-Code) festgelegt, wann welcher Schritt ausgeführt wird und was mit den anfallenden Daten passiert. Die erstellten Designs werden dann mit dem PSoC-Programmer auf den Chip übertragen und ihre Funktionsweise getestet.
+#### Ziele des Praktikums
+• Kennenlernen von Mixed-Signal-Systemen  
+• Kennenlernen des PSoC-Bausteins und seiner Möglichkeiten  
+• Anhand von praktischen Beispielen soll das hardwareseitige Auslesen eines Sensors sowie die Verarbeitung der Daten zu den zu messenden physikalischen Größen verstanden und umgesetzt werden.  
+• Einführung in die graphische Programmierung des Loxone „Smart Home“ Miniservers als Beispiel einer speicherprogrammierbaren Steuerung  
+• Lernen und Anwenden der imperativen Programmiersprache C. Hierdurch soll insbesondere die Arbeitsweise eines Computers besser verstanden werden.   
